@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e85bba4-ed3f-4fbb-90c3-ff5c3ce762b9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WeatherAdmin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-CLI/Solved/WeatherAdmin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tamagotchi-this.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-Tamagotchi/Solved/tamagotchi-this.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CLI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-CLI/Solved/CLI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSearch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15-CLI/Solved/UserSearch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teamManager-advanced.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-TeamManager/Solved/teamManager-advanced.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSearch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13-UserSearch/Solved/UserSearch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSearch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14-WeatherAdmin/Solved/UserSearch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="callbacks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16-Callbacks/Solved/callbacks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-325">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-MovieManager/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-55">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CLI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11-Completed-WeatherAdmin/Solved/CLI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/04-Tamagotchi/Solved/tamagotchi-this.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/08-TeamManager/node_modules" />
+    <handled-path value="$PROJECT_DIR$/12-Architecture/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="01-RainingCatsAndDogs-NoCon" type="cbb8eebc:String" user="01-RainingCatsAndDogs-NoCon" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="01-RainingCatsAndDogs-NoCon" type="cbb8eebc:String" user="01-RainingCatsAndDogs-NoCon" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="02-RainingCatsAndDogs-Con" type="cbb8eebc:String" user="02-RainingCatsAndDogs-Con" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="03-CharacterCreate" type="cbb8eebc:String" user="03-CharacterCreate" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="03-CharacterCreate" type="cbb8eebc:String" user="03-CharacterCreate" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="04-Tamagotchi" type="cbb8eebc:String" user="04-Tamagotchi" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="04-Tamagotchi" type="cbb8eebc:String" user="04-Tamagotchi" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="05-Programmers" type="cbb8eebc:String" user="05-Programmers" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="05-Programmers" type="cbb8eebc:String" user="05-Programmers" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="06-ProgrammersWithPrompt" type="cbb8eebc:String" user="06-ProgrammersWithPrompt" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="07-ProgrammersLoop" type="cbb8eebc:String" user="07-ProgrammersLoop" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="08-TeamManager" type="cbb8eebc:String" user="08-TeamManager" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="08-TeamManager" type="cbb8eebc:String" user="08-TeamManager" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="09-MovieManager" type="cbb8eebc:String" user="09-MovieManager" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="10-Classrooms" type="cbb8eebc:String" user="10-Classrooms" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="10-Classrooms" type="cbb8eebc:String" user="10-Classrooms" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="11-Completed-WeatherAdmin" type="cbb8eebc:String" user="11-Completed-WeatherAdmin" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="11-Completed-WeatherAdmin" type="cbb8eebc:String" user="11-Completed-WeatherAdmin" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="12-Architecture" type="cbb8eebc:String" user="12-Architecture" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="12-Architecture" type="cbb8eebc:String" user="12-Architecture" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="12-Architecture" type="cbb8eebc:String" user="12-Architecture" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+              <item name="Images" type="cbb8eebc:String" user="Images" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="13-UserSearch" type="cbb8eebc:String" user="13-UserSearch" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="13-UserSearch" type="cbb8eebc:String" user="13-UserSearch" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="14-WeatherAdmin" type="cbb8eebc:String" user="14-WeatherAdmin" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="14-WeatherAdmin" type="cbb8eebc:String" user="14-WeatherAdmin" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="15-CLI" type="cbb8eebc:String" user="15-CLI" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="15-CLI" type="cbb8eebc:String" user="15-CLI" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="16-Callbacks" type="cbb8eebc:String" user="16-Callbacks" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="01-Activities" type="cbb8eebc:String" user="01-Activities" />
+              <item name="16-Callbacks" type="cbb8eebc:String" user="16-Callbacks" />
+              <item name="Solved" type="cbb8eebc:String" user="Solved" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="01-RainingCatsAndDogs-NoCon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="02-RainingCatsAndDogs-Con" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="03-CharacterCreate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Tamagotchi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Tamagotchi" type="462c0819:PsiDirectoryNode" />
+              <item name="Solved" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="05-Programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="06-ProgrammersWithPrompt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="07-ProgrammersLoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="08-TeamManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="09-MovieManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="10-Classrooms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="10-Classrooms" type="462c0819:PsiDirectoryNode" />
+              <item name="Solved" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="12-Architecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="13-UserSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="14-WeatherAdmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="15-CLI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="16-Callbacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01-Activities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-Activities" type="462c0819:PsiDirectoryNode" />
+              <item name="16-Callbacks" type="462c0819:PsiDirectoryNode" />
+              <item name="Unsolved" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e85bba4-ed3f-4fbb-90c3-ff5c3ce762b9" name="Default" comment="" />
+      <created>1507989533730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507989533730</updated>
+      <workItem from="1507989535098" duration="10694000" />
+      <workItem from="1508278832777" duration="10862000" />
+      <workItem from="1508452373402" duration="9780000" />
+      <workItem from="1508777811679" duration="38000" />
+      <workItem from="1508777852293" duration="1077000" />
+      <workItem from="1508945958398" duration="1949000" />
+      <workItem from="1508950782169" duration="2378000" />
+      <workItem from="1508968578532" duration="25000" />
+      <workItem from="1509145193694" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37528000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19221604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3421829" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/04-Tamagotchi/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Tamagotchi/tamagachi.js" />
+    <entry file="file://$PROJECT_DIR$/05-Programmers/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-ProgrammersWithPrompt/programmersWithPrompt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-Programmers/programmers.js" />
+    <entry file="file://$PROJECT_DIR$/08-TeamManager/teamManager.js" />
+    <entry file="file://$PROJECT_DIR$/08-TeamManager/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/main.js" />
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/classrooms.js" />
+    <entry file="file://$PROJECT_DIR$/13-UserSearch/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Architecture/package.json" />
+    <entry file="file://$PROJECT_DIR$/14-WeatherAdmin/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-Architecture/log.txt" />
+    <entry file="file://$PROJECT_DIR$/12-Architecture/CLI.js" />
+    <entry file="file://$PROJECT_DIR$/12-Architecture/Usersearch.js" />
+    <entry file="file://$PROJECT_DIR$/12-Architecture/Weatheradmin.js" />
+    <entry file="file://$PROJECT_DIR$/12-Architecture/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-Callbacks/Unsolved/callbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-Callbacks/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-RainingCatsAndDogs-Con/rainingCatsAndDogs-con.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-CharacterCreate/Solved/characterCreate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Tamagotchi/Solved/tamagotchi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-CharacterCreate/Solved/characterCreate-withRPG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-Programmers/Solved/programmers-noPrototypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-Programmers/Solved/programmers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-ProgrammersWithPrompt/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-ProgrammersLoop/programmersLoop-noRecursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-ProgrammersLoop/programmersLoop-recursionArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-ProgrammersLoop/programmersLoop-recursion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-RainingCatsAndDogs-NoCon/Solved/rainingCatsAndDogs-noCon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/Solved/classroom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/Solved/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-Classrooms/Solved/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-WeatherAdmin/Solved/WeatherAdmin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Completed-WeatherAdmin/Solved/UserSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Completed-WeatherAdmin/Solved/WeatherAdmin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-ProgrammersWithPrompt/programmersWithPrompt-noPrototypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-MovieManager/castMember.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-MovieManager/movie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-CLI/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-CLI/Solved/WeatherAdmin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Tamagotchi/Solved/tamagotchi-this.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-CLI/Solved/CLI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-CLI/Solved/UserSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-TeamManager/Solved/teamManager-advanced.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-UserSearch/Solved/UserSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-WeatherAdmin/Solved/UserSearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Completed-WeatherAdmin/Solved/CLI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16-Callbacks/Solved/callbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-MovieManager/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

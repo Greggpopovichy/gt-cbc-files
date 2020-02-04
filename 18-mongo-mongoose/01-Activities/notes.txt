@@ -1,0 +1,18 @@
+mongo is a noSQL database
+it uses BSON - compressed JSON
+they are easier to implement than sql servers
+
+SQL requires you to have knowledge of the schema. Mongo does not.
+
+Mongo databases are comprised of multiple collections. the collections are comprised of multiple documents.
+-think of collections as tables
+-think of documents as rows
+-think of fields as columns
+
+Mongo advantages:
+-horizontal scalability
+-you can change mongo's 'schema' on the fly
+-large community
+
+SQL makes more sense if you're working with a lot of relational data. If you are working with alot of analytics, sql is probably better.
+
